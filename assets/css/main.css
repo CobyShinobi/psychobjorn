@@ -4335,7 +4335,7 @@ animation: rainbow 18s ease infinite;
 .mouseover-info {
 	color: #000;
 	font-size: 2rem;
-	margin: 120px 42px;
+	margin: 35px 42px;
 	position: absolute;
 	text-align: center;
 	width: 200px;
@@ -4363,7 +4363,7 @@ animation: rainbow 18s ease infinite;
 	width: 75%;
 }
 
-#skullVar1 {
+#skullVar {
 	height: auto;
 	width: 20%;
 }
